@@ -57,5 +57,5 @@ async def verify(ctx):
 
 
 
-SeBot.run("NDQ4Mjg2MTMzNTA4NjM2Njg0.DeT6-A.g23JmJFW2iWBz-XVaKZHPxakFlo")
+SeBot.run("")
 
